@@ -130,7 +130,7 @@
                         <li>2021-2024 <br> Bachelor of Computer Appplication</li>
                         <li>Idhaya College For Women, <br> Bharathidasan University, <br> Kumbakonam-Tamilnadu</li>
                         <li>2020-Indra public 2021, <br> Higher Secondary</li>
-                        <li>Indra public, <br> Higher Secondary School, <br> Kumbakonam-Tamilnadu </li>
+                        <li>Indra public, <br> Higher Secondary School, <br> Thaluthalaimedu-Tamilnadu </li>
                     </ul>
                 </div>
             </section>
